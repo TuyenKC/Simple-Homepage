@@ -3,8 +3,6 @@ html{
     font-family: "Poppins", serif;
 }
 body{
-    width: 128rem;
-    height: 100vh;
     background-color: #f2f9ff;
 }
 .container{
