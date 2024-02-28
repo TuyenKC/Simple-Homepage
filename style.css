@@ -5,6 +5,7 @@ html{
 .body{
     width: 128rem;
     height: 100vh;
+    background-color: #f2f9ff;
 }
 .container{
     padding: 2.8rem 7.2rem;
